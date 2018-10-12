@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{133A1538-E658-E839-9ED0-2C0126A21F80}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BulletScript2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player1Script.cs" Line="36" Column="1" />
+      <File FileName="Assets/Scripts/Player2Script.cs" Line="18" Column="38" />
+      <File FileName="Assets/Scripts/BulletScript.cs" Line="37" Column="1" />
+      <File FileName="Assets/Scripts/Weapon.cs" Line="18" Column="6" />
+      <File FileName="Assets/Scripts/Weapon2Script.cs" Line="16" Column="6" />
+      <File FileName="Assets/Scripts/BulletScript2.cs" Line="15" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
